@@ -1,0 +1,51 @@
+*{
+    background-color: khaki;
+}
+
+h2{
+    text-align: center;
+    color: aliceblue;
+    background-color: navajowhite;
+    padding: 15px 20px 25px 30px;
+    font-family: 'Bungee Spice', cursive;
+}
+h3{
+    text-align: center;
+    color: darkslategrey;
+    font-family: 'Bebas Neue', cursive;
+    background-color: blanchedalmond;
+}
+a:hover{
+    color: indianred;
+    background-color: lightgreen;
+}
+a{
+    background-color: lightyellow;
+    text-align: center;
+}
+nav{
+    background-color: lightyellow;
+    padding: 10px 15px 20px 25px;
+    font-family: 'Roboto', sans-serif;
+}
+div{
+    background-color: blanchedalmond;
+}
+p{
+    background-color: blanchedalmond;
+}
+header{
+    text-align: center;
+    color: darkolivegreen;
+    font-family: 'Bebas Neue', cursive;
+}
+.items{
+    padding: 75px 100px 125px 150px;
+    margin: 75px 100px 125px 150px;
+}
+h5{
+    text-align: right;
+}
+B{
+    text-align: center;
+}
